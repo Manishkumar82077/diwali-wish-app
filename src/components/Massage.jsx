@@ -9,8 +9,8 @@ function Massage() {
       transition={{ duration: 1.5, ease: "easeOut" }}
     >
       <p className="text-lg text-gray-700 mb-6">
-        May this Diwali bring joy, prosperity, and endless light in your life!
-        ✨
+        As you light the diyas and burst the crackers, may your life be filled
+        with new beginnings and happiness. Wishing you a wonderful Diwali! ✨
       </p>
     </motion.div>
   );
