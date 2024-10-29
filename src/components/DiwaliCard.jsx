@@ -33,7 +33,7 @@ const DiwaliCard = () => {
 
         {/* Name with Festive Font Style */}
         <h2 className="text-3xl font-bold text-yellow-600 mb-4 tracking-wide z-10">
-          Sakshi
+          Manish kumar
         </h2>
 
         {/* Message */}
